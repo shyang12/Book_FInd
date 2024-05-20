@@ -34,3 +34,9 @@
   
 ![실습 1](https://github.com/shyang12/Book_FInd/assets/85710913/a4b41924-ad12-4c5e-b7d6-164023def682)
 
+- @RequestMapping 출력 예시
+
+![ㅇㄹㅇㄹ](https://github.com/shyang12/Book_FInd/assets/85710913/d48c1f11-853d-4def-b932-5f7b207da2a4)  ![ㅎㅀ](https://github.com/shyang12/Book_FInd/assets/85710913/eda4c74e-c24b-4ea0-97f3-c6104902ff17)
+
+
+
