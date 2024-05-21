@@ -43,4 +43,23 @@
 ![ㅇㄹㅇㄹ](https://github.com/shyang12/Book_FInd/assets/85710913/d48c1f11-853d-4def-b932-5f7b207da2a4)  ![ㅎㅀ](https://github.com/shyang12/Book_FInd/assets/85710913/eda4c74e-c24b-4ea0-97f3-c6104902ff17)
 
 
+- CRUD 출력
+  ▶ Book Add
+  
+  ![bookadd](https://github.com/shyang12/Book_FInd/assets/85710913/121bdd61-8803-42bc-8a3f-24f8a6e9487c)
+
+
+  ▶ Book Delete (success / fail)
+
+  ![deletevalid](https://github.com/shyang12/Book_FInd/assets/85710913/fd1a1412-8eb7-4575-ae42-c36225678974)  ![삭제 notvalid](https://github.com/shyang12/Book_FInd/assets/85710913/ffa40932-b38f-4269-a45e-f54ca4569e12)
+
+
+  ▶ After Delete
+
+  ![delete after](https://github.com/shyang12/Book_FInd/assets/85710913/7d940f87-d8bb-4825-b8bc-3695d218ca7c)
+
+
+  ▶ Book Update (success / fail)
+
+  ![updatesucces](https://github.com/shyang12/Book_FInd/assets/85710913/e47ce0fa-684c-4884-9e0e-f99661d72d26) ![updatenotsuccess](https://github.com/shyang12/Book_FInd/assets/85710913/e88e5525-2318-4562-bd8d-b668ae84738d)
 
