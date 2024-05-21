@@ -42,6 +42,8 @@ public class RestAPI {
 		return "not valid";
 	}
 	
+	
+	// Update
 	@RequestMapping(method = {RequestMethod.DELETE, RequestMethod.GET}, path = "/delete/{id}")
 	public String Delete(@PathVariable int id) {
 		
