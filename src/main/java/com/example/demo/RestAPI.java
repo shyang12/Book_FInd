@@ -8,6 +8,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.*;
 
+
+// git 오류로 인한 수정
 @RestController
 public class RestAPI {
 
@@ -43,7 +45,6 @@ public class RestAPI {
 	}
 	
 	
-	// Update
 	@RequestMapping(method = {RequestMethod.DELETE, RequestMethod.GET}, path = "/delete/{id}")
 	public String Delete(@PathVariable int id) {
 		
